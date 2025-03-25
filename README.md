@@ -37,7 +37,7 @@ Make sure you have Python installed (Python 3.6 or higher).
 
 ```sh
 # Clone the repository
-git clone https://github.com/YourUsername/Pong-Game.git
+git clone https://github.com/Tsaousidis/Pong-Game.git
 
 # Navigate to the project folder
 cd Pong-Game
